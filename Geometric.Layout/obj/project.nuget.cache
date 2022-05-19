@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVw1X0Utjr22JPEI449jBki7ErnJMrQwHIjSUUadw//xs1tWVqIFF3dF8sRKFwUyd9I2FybtBSp9DtwPcotR3w==",
+  "success": true,
+  "projectFilePath": "C:\\WorkSpace\\Geometric.Layout-main\\Geometric.Layout\\Geometric.Layout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aarush\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aarush\\.nuget\\packages\\microsoft.openapi\\1.3.1\\microsoft.openapi.1.3.1.nupkg.sha512",
+    "C:\\Users\\Aarush\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aarush\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\Aarush\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aarush\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

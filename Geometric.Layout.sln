@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric.Layout", "Geometric.Layout\Geometric.Layout.csproj", "{B0FEC99B-4FBC-47E2-AD9C-28F808A27CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric.Utilities", "Geometric.Utilities\Geometric.Utilities.csproj", "{5E1393B9-6581-4689-91B7-3DE00089B439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric.Layout.Tests", "Geometric.Layout.Tests\Geometric.Layout.Tests.csproj", "{9DC1A560-19A6-445E-B47F-B7948828C7E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FEC99B-4FBC-47E2-AD9C-28F808A27CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FEC99B-4FBC-47E2-AD9C-28F808A27CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FEC99B-4FBC-47E2-AD9C-28F808A27CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FEC99B-4FBC-47E2-AD9C-28F808A27CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1393B9-6581-4689-91B7-3DE00089B439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1393B9-6581-4689-91B7-3DE00089B439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1393B9-6581-4689-91B7-3DE00089B439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1393B9-6581-4689-91B7-3DE00089B439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC1A560-19A6-445E-B47F-B7948828C7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC1A560-19A6-445E-B47F-B7948828C7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC1A560-19A6-445E-B47F-B7948828C7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC1A560-19A6-445E-B47F-B7948828C7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4797A9-8DEA-44AD-A99B-6C692FE2F3AB}
+	EndGlobalSection
+EndGlobal
