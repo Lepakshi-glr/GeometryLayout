@@ -8,6 +8,7 @@ Given a Layout containing right angled triangles, program would be able to do th
 
 Design for finding the coordinates for a given triangle position.
 1.	Find the starting point using the 2 steps below and then find the coordinates of bottom or top triangle.
+
    a.	Find point x - Divide the column by 2, take the ceiling number, subtract it by 1 and finally multiply with 10.
       Each cell contains 2 triangles so division by 2 would give the correct column.
       The starting point (x, y) of the image or matrix are 0 based index, subtraction by 1 gives the right x-coordinate.
